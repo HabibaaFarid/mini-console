@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pay_71c9e5a04097",
+    "publicId": "0f5c300d0f0e3aa0bbb4bf6d",
+    "amount": 1200,
+    "currency": "EGP",
+    "status": "paid",
+    "merchantOrderId": "ORDER-12345",
+    "createdAt": "2025-09-18T01:22:33.299Z",
+    "updatedAt": "2025-09-18T01:28:42.495Z"
+  }
+]
